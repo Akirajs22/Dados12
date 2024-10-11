@@ -45,6 +45,6 @@ return {
     "unknowslayer7",
     "orosum1112",
     "Luccax_33",  
-    "luffy_chope4"  
+    "luffy_chope4",  
     "marcospatolino" 
 }
